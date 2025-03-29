@@ -2,7 +2,7 @@
 состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
     --main-font: 'Inter-Variable';
-    --accent-font: 'PressStart2P-Regular';
+    --accent-font: 'PressStart2P';
     --wght: 400;
     --stroke-color: #ffffff;
     --accent-color: #000000;
